@@ -1,0 +1,97 @@
+html{
+    height:100%;
+}
+body{
+    font-family: sans-serif;
+    margin:0;
+    padding:0;
+    height:100%;
+    
+    
+}
+.body-home{
+    background-image: url('image/restaurant%20-background.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+/*=======HOME=======*/
+font{
+    font-family:sans-serif;
+    color:white;
+     
+}
+.home-menu-item{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    font-size: 25px;
+    font-weight:bold;
+    text-align:left;
+    border: 5px solid white;
+    
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 80%;
+}
+#recipes{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    font-size: 15px;
+    font-weight: lighter;
+    text-align: left;
+    border: 5px solid white;
+    padding-left:10px;
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 80%;
+}
+.recipes{
+    background-image: url('image/restaurant%20-background.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#recipe-menu{ 
+}
+.h3{
+    text-align: center;
+}
+
+ #recipe-menu i{
+    color:white;
+    font-size: 20px;
+    float:center;
+}
+#menu i{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+    float:center;
+    padding-right: 10px;
+}
+h1{
+    text-decoration: underline;
+}
+footer p{
+    color:darkgrey;
+    font-size:100%;
+    
+}
+footer i{
+    font-size:105%;
+    color: darkgrey;
+}
+#recipes i{
+    font-size:17px;
+    
+}
+@media only screen and (min-width:600px){
+    
+}
